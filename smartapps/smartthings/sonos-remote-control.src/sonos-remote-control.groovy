@@ -13,7 +13,7 @@
  *  Sonos Remote Control
  *
  *  Author: Matt Nohr
- *  Date: 2014-04-14
+ *  Date: 2016-07-17
  */
  
 /**
